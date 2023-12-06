@@ -35,5 +35,63 @@ nav a {
 
 nav a:hover {
     color #a108bc:
-    text-decoration:urderline
-    
+    text-decoration:urderline;
+}
+
+produtos {
+    width:940px;
+    margin:0 auro;
+    padding:50px 0;
+}
+
+.produtos li{
+display:inline-block;
+text-align:center;
+width:30%;
+vertical-align:top;
+padding:30px 20px;
+box-sizing:border-box;
+
+
+border-color:#000000;
+bonder-width:2px;
+border-style:solid;
+border:2px solid #000000;
+border-radius: 10px;
+
+
+
+
+.produtos li:hover {
+    border-color:#c71919;
+}
+produtos li:active {
+    border-color:#a108bc;
+
+
+}
+
+
+.produtos li:hover h2 {
+    font-size:30px;
+    color:#a108bc;
+}
+
+produtos h2 {
+    font-size:30px;
+    font-weight:bold;
+}
+
+produto-descricao {
+    font-size:18px;
+}
+
+produto-preco {
+    font-size:22px;
+    font-weight:bold;
+    margin-top:10px;
+}
+
+
+
+
