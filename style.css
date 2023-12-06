@@ -54,7 +54,7 @@ box-sizing:border-box;
 
 
 border-color:#000000;
-bonder-width:2px;
+border-width:  2px;
 border-style:solid;
 border:2px solid #000000;
 border-radius: 10px;
@@ -63,9 +63,10 @@ border-radius: 10px;
 
 
 .produtos li:hover {
-    border-color:#c71919;
+    border-color:  #c71919;
 }
-produtos li:active {
+
+.produtos li:active {
     border-color:#a108bc;
 
 
@@ -75,7 +76,7 @@ produtos li:active {
 .produtos li:hover h2 {
     font-size:30px;
     color:#a108bc;
-    </body>
+   
 }
 
 produtos h2 {
