@@ -1,0 +1,39 @@
+header {
+ background:#c7afaf;
+ padding:20px 0;
+}
+
+.caixa {
+    position:relative;
+    width:940px;
+    margin:0 auto;
+}
+
+main {
+    backgrond: #f0dede;
+}
+
+nav {
+    position:absolute;
+    top:100px
+    right:0;
+}
+
+nav li {
+    display:iline;
+    margin:0 0 0 15px
+}
+
+nav a { 
+    text-tranform:uppercase;
+    color:#000000;
+    font-weight:bold;
+    font-size: 22px;
+    text-decoration:|none;
+}  
+
+
+nav a:hover {
+    color #a108bc:
+    text-decoration:urderline
+    
